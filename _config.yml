@@ -34,4 +34,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-highlighter:rouge
+highlighter: rouge
